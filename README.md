@@ -1,7 +1,7 @@
 # java_basis
 Основы java  <br />
 
-Текущий изученный урок:2  <br />
+Текущий изученный урок:09  <br />
 https://www.youtube.com/watch?v=_jXDPfUKm58&list=PLwwk4BHih4fi8LTppXzTrCBgMJjC7FX7t  <br />
 Roman Brovko  <br />
 
@@ -16,7 +16,7 @@ Roman Brovko  <br />
 Урок 09 - Основы java. Рефакторинг кода  <br />
 Урок 10 - Основы java. Константы  <br />
 Урок 11 - Основы java. Режим отладки (debug)  <br />
-Урок 12 - Основы java. Подключение библиотекv
+Урок 12 - Основы java. Подключение библиотек  <br />
 Урок 13 - Основы java. Вызовы методов  <br />
 Урок 14 - Основы java. Ссылки на объекты  <br />
 Урок 15 - Основы java. Методы toString, equals, hashCode  <br />
@@ -41,3 +41,5 @@ Roman Brovko  <br />
 Урок 34 - Основы java. Технологии JavaSE  <br />
 Урок 35 - Основы java. Как выбирать коллекцию  <br />
 Roman Brovko  <br />
+
+К уроку 11. https://www.jetbrains.com/idea/help/debugging.html <br />
