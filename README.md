@@ -1,7 +1,7 @@
 # java_basis
 Основы java  <br />
 
-Текущий изученный урок:15  <br />
+Текущий изученный урок:16  <br />
 https://www.youtube.com/watch?v=_jXDPfUKm58&list=PLwwk4BHih4fi8LTppXzTrCBgMJjC7FX7t  <br />
 Roman Brovko  <br />
 
@@ -43,3 +43,5 @@ Roman Brovko  <br />
 Roman Brovko  <br />
 
 К уроку 11. https://www.jetbrains.com/idea/help/debugging.html <br />
+
+К уроку 16. В java все параметры передаются по значению.

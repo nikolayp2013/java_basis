@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8035c5d-e193-4b77-ac05-c25e745216bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SendParam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinksToObjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinksToObjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToStringEquals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ToStringEquals/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,9 +23,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
               <folding>
+                <element signature="e#148#149#0" expanded="true" />
                 <element signature="e#117#118#0" expanded="true" />
                 <element signature="e#144#145#0" expanded="true" />
                 <element signature="e#466#467#0" expanded="true" />
@@ -36,8 +41,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/Start.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            <state relative-caret-position="374">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="e#597#598#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+                <element signature="e#653#654#0" expanded="true" />
+                <element signature="e#700#701#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,21 +96,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ToStringEquals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ToStringEquals" type="462c0819:PsiDirectoryNode" />
+              <item name="SendParam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SendParam" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ToStringEquals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ToStringEquals" type="462c0819:PsiDirectoryNode" />
+              <item name="SendParam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SendParam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ToStringEquals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ToStringEquals" type="462c0819:PsiDirectoryNode" />
+              <item name="SendParam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SendParam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -103,13 +120,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LinksToObjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -126,7 +141,7 @@
   <component name="RunManager">
     <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Start" />
-      <module name="ToStringEquals" />
+      <module name="SendParam" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.*" />
@@ -167,6 +182,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22814499" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -177,7 +193,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -199,9 +215,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        <state relative-caret-position="153">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding>
+            <element signature="e#148#149#0" expanded="true" />
             <element signature="e#117#118#0" expanded="true" />
             <element signature="e#144#145#0" expanded="true" />
             <element signature="e#466#467#0" expanded="true" />
@@ -214,8 +231,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Start.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="374">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

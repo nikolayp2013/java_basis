@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d759ebf-5700-4810-a2d8-0f159b7a4064" name="Default Changelist" comment="" />
+    <list default="true" id="8d759ebf-5700-4810-a2d8-0f159b7a4064" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ToStringEquals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ToStringEquals/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +16,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1824" />
@@ -78,12 +80,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SendParam" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,9 +131,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1824" height="1100" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25283447" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24040511" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
