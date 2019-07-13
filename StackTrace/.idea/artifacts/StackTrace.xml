@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StackTrace">
+    <output-path>$PROJECT_DIR$/out/artifacts/StackTrace</output-path>
+    <root id="archive" name="StackTrace.jar">
+      <element id="module-output" name="StackTrace" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
