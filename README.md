@@ -1,7 +1,7 @@
 # java_basis
 Основы java  <br />
 
-Текущий изученный урок:26  <br />
+Текущий изученный урок:27  <br />
 https://www.youtube.com/watch?v=_jXDPfUKm58&list=PLwwk4BHih4fi8LTppXzTrCBgMJjC7FX7t  <br />
 Roman Brovko  <br />
 
@@ -32,7 +32,7 @@ Roman Brovko  <br />
 Урок 25 - Основы java. Понятия Ordered и Sorted  <br />
 Урок 26 - Основы java. Интерфейс Set  <br />
 Урок 27 - Основы java. Реализация Set  <br />
-Урок 28 - Основы java. Типизированный коллекции  <br />
+Урок 28 - Основы java. Типизированные коллекции  <br />
 Урок 29 - Основы java. Реализация List  <br />
 Урок 30 - Основы java. Compare и Comparator  <br />
 Урок 31 - Основы java. Реализаций Queue  <br />
