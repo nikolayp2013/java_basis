@@ -1,7 +1,7 @@
 # java_basis
 Основы java  <br />
 
-Текущий изученный урок:27  <br />
+Текущий изученный урок:28 <br />
 https://www.youtube.com/watch?v=_jXDPfUKm58&list=PLwwk4BHih4fi8LTppXzTrCBgMJjC7FX7t  <br />
 Roman Brovko  <br />
 
