@@ -1,7 +1,7 @@
 # java_basis
 Основы java  <br />
 
-Текущий изученный урок:29 10.14 <br />
+Текущий изученный урок:29 <br />
 https://www.youtube.com/watch?v=_jXDPfUKm58&list=PLwwk4BHih4fi8LTppXzTrCBgMJjC7FX7t  <br />
 Roman Brovko  <br />
 
@@ -44,6 +44,9 @@ Roman Brovko  <br />
 
 К уроку 11. https://www.jetbrains.com/idea/help/debugging.html <br />
 
-К уроку 16. В java все параметры передаются по значению.
+К уроку 16. В java все параметры передаются по значению.  <br />
 
-К уроку 17. &, && - И; |, || - ИЛИ; &&, || - сокращенная форма (если выполняется одно условие, другие не проверяются).
+К уроку 17. &, && - И; |, || - ИЛИ; &&, || - сокращенная форма (если выполняется одно условие, другие не проверяются).  <br />
+
+К уроку 29. Ссылка на примеры готового кода под разные задачи !!!  <br />
+http://www.java2novice.com/java-collections-and-util/linkedlist/  <br />
