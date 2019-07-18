@@ -79,9 +79,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="244" />
-    <option name="y" value="400" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="299" />
     <option name="width" value="1680" />
     <option name="height" value="711" />
   </component>
@@ -160,7 +159,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="244" y="400" width="1680" height="711" extended-state="0" />
+    <frame x="0" y="299" width="1680" height="711" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />

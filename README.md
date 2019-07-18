@@ -1,7 +1,7 @@
 # java_basis
 Основы java  <br />
 
-Текущий изученный урок:33 <br />
+Текущий изученный урок:34 <br />
 https://www.youtube.com/watch?v=_jXDPfUKm58&list=PLwwk4BHih4fi8LTppXzTrCBgMJjC7FX7t  <br />
 Roman Brovko  <br />
 
@@ -50,3 +50,6 @@ Roman Brovko  <br />
 
 К уроку 29. Ссылка на примеры готового кода под разные задачи !!!  <br />
 http://www.java2novice.com/java-collections-and-util/linkedlist/  <br />
+
+К уроку 34. Описание всех технологий java SE <br />
+https://docs.oracle.com/javase/8/docs/index.html  <br />
